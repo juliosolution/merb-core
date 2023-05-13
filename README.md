@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs

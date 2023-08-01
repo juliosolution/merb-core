@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)

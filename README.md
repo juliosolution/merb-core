@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)

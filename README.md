@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+Rename model_id to model.id (#8447)

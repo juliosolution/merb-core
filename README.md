@@ -1,1 +1,1 @@
-Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)

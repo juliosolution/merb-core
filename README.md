@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Improve Coral Edge TPU guide (#8160)

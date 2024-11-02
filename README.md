@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
